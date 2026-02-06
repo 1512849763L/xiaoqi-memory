@@ -79,6 +79,20 @@
   - ST7789 显示屏
 - **难度**: ⭐⭐⭐ 中等（有视频教程）
 
+### 6. OpenCat / Petoi Bittle (四足机器人)
+- **GitHub**: https://github.com/PetoiCamp/OpenCat-Quadruped-Robot
+- **官网**: https://www.petoi.com/
+- **特点**:
+  - 开源四足机器人框架
+  - 类似波士顿动力风格
+  - Arduino + Raspberry Pi 
+  - 支持 AI/IoT 扩展
+  - 可装摄像头、传感器
+  - 能走、跑、跳、后空翻！
+- **产品**: Nybble（机器猫）、Bittle（机器狗）
+- **难度**: ⭐⭐⭐⭐ 较难
+- **备注**: Florentina 用的就是这个！
+
 ## 🔧 硬件详细规格
 
 ### M5Stack AtomS3R（推荐入门）
