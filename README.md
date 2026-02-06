@@ -30,17 +30,15 @@ curl -fsSL https://get.openclaw.ai | bash
 git clone https://github.com/1512849763L/xiaoqi-memory.git ~/.openclaw/workspace
 ```
 
-### 第四步：配置 OpenClaw
+### 第四步：恢复配置文件
 
-运行配置向导：
+复制下面这行命令，把备份的配置恢复回去：
 
 ```bash
-openclaw configure
+cp ~/.openclaw/workspace/openclaw.json.backup ~/.openclaw/openclaw.json
 ```
 
-按提示填写：
-- API Key（找你之前记录的，或者重新申请）
-- Telegram Bot Token：`8145272516:AAGR5wXu95_uJlHoMT4W9KIEqCkoK2Tf71s`
+这样你的自定义 API 地址（base URL）、Telegram 配置等等都会自动恢复，不用手动改了！
 
 ### 第五步：启动
 
@@ -92,6 +90,7 @@ sudo systemctl start openclaw
 | `memory/` | 每日日志 |
 | `avatar.jpg` | 小七的头像（白发版） |
 | `avatar-2.jpg` | 小七的头像（黑发版） |
+| `openclaw.json.backup` | OpenClaw 完整配置（含自定义 API 地址） |
 
 ---
 
