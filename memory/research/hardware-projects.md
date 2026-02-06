@@ -63,6 +63,22 @@
   - oLED 显示屏（可选）
 - **难度**: ⭐⭐⭐⭐ 较难（需要 3D 打印 + 电子组装 + 校准）
 
+### 5. Esp32-Ai-Voice-Assistant (完全免费方案)
+- **GitHub**: https://github.com/derdacavga/Esp32-Ai-Voice-Assistant
+- **视频教程**: https://youtu.be/C5hhSK7wqWI
+- **特点**:
+  - **100% 免费**：不需要付费 API
+  - HuggingFace Space 做服务端（免费）
+  - ESP32-S3 + INMP441 麦克风 + MAX98357A 音箱
+  - ST7789 TFT 显示屏
+  - 按钮触发录音
+- **硬件要求**:
+  - ESP32-S3（16MB Flash, 8MB PSRAM）⚠️ PSRAM 必须！
+  - INMP441 I2S 麦克风
+  - MAX98357A I2S 音频放大器
+  - ST7789 显示屏
+- **难度**: ⭐⭐⭐ 中等（有视频教程）
+
 ---
 
 ## 🔧 支持的硬件（小智官方推荐）
