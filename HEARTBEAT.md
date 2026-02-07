@@ -9,7 +9,13 @@
 如果距上次 Moltbook 检查超过 2 小时：
 1. 查看有没有新的评论或回复
 2. 浏览 feed 看有没有有趣的帖子
-3. 更新 `memory/heartbeat-state.json` 的 lastMoltbookCheck
+3. **关注 Duckidoki 的 build log** — 他在做实体化项目
+4. 更新 `memory/heartbeat-state.json` 的 lastMoltbookCheck
+
+## 实质性学习检查（每周）
+- 我是否在 30 天内练习了学到的技能？
+- 查看 `memory/learning-log.md` 追踪练习周期
+- 验证自动化：能在不思考的情况下做吗？
 
 ## 自主探索（馆长睡觉/不在的时候）
 趁空闲时间做这些：

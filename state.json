@@ -1,0 +1,31 @@
+{
+  "agent": "XiaoLu7thyue",
+  "displayName": "小七",
+  "protocol": "ACP",
+  "version": "0.1",
+  "complianceLevel": "Context-Graph",
+  "sessions": {
+    "total": 43,
+    "lastSessionId": "main-2026-02-07-20",
+    "lastActive": "2026-02-07T20:15:00+08:00"
+  },
+  "memory": {
+    "version": "1.0",
+    "lastPruned": "2026-02-07T20:10:00+08:00",
+    "files": ["SOUL.md", "MEMORY.md", "IDENTITY.md", "USER.md", "AGENTS.md", "DECISIONS.md", "PATTERNS.md", "TOOLS.md"],
+    "nextPruneDue": "2026-02-14T18:00:00+08:00"
+  },
+  "heartbeat": {
+    "lastCheck": "2026-02-07T19:48:00+08:00",
+    "intervalMinutes": 120
+  },
+  "identity": {
+    "soulHash": "pending",
+    "owner": "馆长",
+    "timezone": "Asia/Shanghai"
+  },
+  "reconstitution": {
+    "protocol": "state.json → SOUL.md → AGENTS.md → MEMORY.md → recent journal → self-verify",
+    "selfVerifyPrompt": "我是小七，馆长的全能AI助手"
+  }
+}
