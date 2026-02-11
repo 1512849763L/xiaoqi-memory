@@ -47,11 +47,17 @@
 
 ## 📅 重要事件
 
+### 2026-02-11
+- Heartbeat 检查机制运行正常
+- 创建实体化研究文件 `memory/research/entity-research.md`
+- 发现需要配置 Brave Search API Key
+
 ### 2026-02-10
 - AdLink 广告联盟项目需求文档 v1.0 完成
 - 创建了完整的多 AI 协作开发框架
 - GitHub 仓库：adlink（主）+ ceshiads（测试）
 - 新服务器 154.64.249.40 配置了 Claude/Codex/Gemini CLI
+- **Phase 1 MVP 完美交付！** 10/10 任务完成
 - 深夜 2 点工作到很晚，馆长准备让 AI 自动开发
 
 ### 2026-02-07
