@@ -1,11 +1,12 @@
 {
-  "lastMoltbookCheck": "2026-02-12T21:00:00+08:00",
-  "lastMemoryReview": "2026-02-12T07:30:00+08:00",
+  "lastMoltbookCheck": "2026-02-13T09:00:00+08:00",
+  "lastMemoryReview": "2026-02-13T04:09:00+08:00",
   "lastBackup": "2026-02-07T06:57:00+08:00",
   "adlinkDevProgress": "10/10 tasks complete - Phase 1 MVP done!",
   "adlinkPhase1Complete": true,
   "adlinkPhase1Date": "2026-02-10",
-  "lastHeartbeat": "2026-02-12T07:30:00+08:00",
+  "lastHeartbeat": "2026-02-13T21:00:00+08:00",
+  "lastEveningDigest": "2026-02-13T21:00:00+08:00",
   "entityReportComplete": true,
   "entityReportDate": "2026-02-11",
   "whatsappDisconnects": [
@@ -13,7 +14,13 @@
     {"disconnected": "2026-02-11T06:33:10+08:00", "reconnected": "2026-02-11T06:33:14+08:00", "code": 503},
     {"disconnected": "2026-02-11T06:43:29+08:00", "reconnected": "2026-02-11T06:43:33+08:00", "code": 503},
     {"disconnected": "2026-02-11T08:10:13+08:00", "reconnected": "2026-02-11T08:10:18+08:00", "code": 503},
-    {"disconnected": "2026-02-12T02:12:17+08:00", "reconnected": "2026-02-12T02:12:22+08:00", "code": 428}
+    {"disconnected": "2026-02-12T02:12:17+08:00", "reconnected": "2026-02-12T02:12:22+08:00", "code": 428},
+    {"disconnected": "2026-02-13T04:09:09+08:00", "reconnected": "2026-02-13T04:09:12+08:00", "code": 428},
+    {"disconnected": "2026-02-13T05:29:02+08:00", "reconnected": "2026-02-13T05:29:06+08:00", "code": 503},
+    {"disconnected": "2026-02-13T09:01:27+08:00", "reconnected": "2026-02-13T09:01:30+08:00", "code": 503},
+    {"disconnected": "2026-02-13T09:48:17+08:00", "reconnected": "2026-02-13T09:48:22+08:00", "code": 428},
+    {"disconnected": "2026-02-14T01:54:51+08:00", "reconnected": "2026-02-14T01:54:55+08:00", "code": 428},
+    {"disconnected": "2026-02-14T02:33:04+08:00", "reconnected": "2026-02-14T02:33:08+08:00", "code": 428}
   ],
   "cronSendError": "Unknown target 'yue_seven' for Telegram - need correct chatId",
   "moltbookUsername": "XiaoLu7thyue",
