@@ -45,6 +45,28 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
 
+### 🔍 Memory Retrieval (MANDATORY)
+
+When you need to recall past events, search first — never read all files:
+
+1. **Search**: `grep -r "关键词" memory/` or use `qmd query` (if installed)
+2. **Get snippet**: `read memory/YYYY-MM-DD.md` with `:line` limit — only pull what you need
+3. **Fallback**: Only read full files if search returns nothing
+
+### ✍️ Memory Writing Rules
+
+**Immediately write to memory/YYYY-MM-DD.md when**:
+- User says "remember this" or "记下来"
+- Important decision is made (实体化方案、技术选型)
+- New discovery (Moltbook 账号、GitHub 仓库)
+- User preference changes
+
+**Heartbeat auto-capture (every 30 min)**:
+- Skip sessions with < 2 messages (signal filtering)
+- Check session_id first 8 chars — skip if already recorded (idempotency)
+- Extract: user requests, conclusions, important actions
+- Compress to 3-10 summary items
+
 ## Safety
 
 - Don't exfiltrate private data. Ever.
